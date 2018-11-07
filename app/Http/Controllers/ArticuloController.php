@@ -23,6 +23,7 @@ class ArticuloController extends Controller
 {
     public function __construct()
     {
+        //este es la version 2 de la prueba xD v2 repito v2
     }
     public function index(Request $request)
     {
